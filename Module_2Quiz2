@@ -1,0 +1,36 @@
+1.Which API management system supports applications running in App Engine, Google Kubernetes Engine, and Compute Engine?
+
+Ans.Cloud Endpoints
+
+    Apigee
+
+    REST API
+
+    Pub/Sub
+2.Which platform for developing and managing API proxies has a specific focus on business problems, like rate limiting, quotas, and analytics?
+
+    REST API
+
+Ans.Apigee API Management
+
+    Pub/Sub
+
+    Cloud Endpoints
+3.What does API stand for?
+
+    Asynchronous Programming Interface
+
+Ans.Application Programming Interface
+
+    Applied Programming Interface
+
+    Artificial Programming Interface
+4.Which statement about Pub/Sub is true?
+
+    Pub/Sub requires provisioning.
+
+    Pub/Sub is unencrypted.
+
+Ans.Pub/Sub’s APIs are open.
+
+    Pub/Sub is regional by default.
