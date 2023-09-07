@@ -1,0 +1,34 @@
+1.With which encryption option does a customer encrypt data before sending it to Google Cloud?
+
+    Google encryption by default
+
+    Customer-managed encryption keys (CMEK)
+
+Ans.Client-side encryption
+
+    Customer-supplied encryption Keys (CSEK)
+2.Which IAM role is the most broad in scope?
+
+   Custom
+
+  Predefined
+
+Ans.Basic
+3.When a customer moves an application to Google Cloud, which one of the following does the customer remain responsible for?
+
+Ans.Data security
+
+   Disk encryption
+
+   Network integrity
+
+   Physical security
+4.At which level of Google Cloud’s infrastructure security will you find intrusion detection?
+
+    The internet communication level
+
+    The storage services level
+
+    The hardware infrastructure level
+
+Ans.The operational security level
