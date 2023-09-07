@@ -1,0 +1,34 @@
+1.Which of these is a managed Spark and Hadoop service that lets you benefit from open source data tools for batch processing, querying, streaming, and machine learning?
+
+Ans.Dataproc
+
+    Dataflow
+
+    Pub/Sub
+
+    BigQuery
+2.You can use three basic patterns to load data into BigQuery. Which one involves using SQL statements to insert rows into an existing table or to write the results of a query to a table?
+
+    Batch load
+
+    Streaming
+
+Ans.Generated data
+3.Which of Google Cloud’s big data managed services is optimized for large-scale batch processing or long-running stream processing of structured and unstructured data?
+
+    Dataproc
+
+Ans.Dataflow
+
+    Pub/Sub
+
+    BigQuery
+4.Which of these is not a feature of BigQuery?
+
+    BigQuery offers a flexible pay-as-you-go pricing model.
+
+    BigQuery provides built-in machine learning features.
+
+    BigQuery offers both data storage and analytics.
+
+Ans.BigQuery runs on your on-premises server.
