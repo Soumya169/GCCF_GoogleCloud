@@ -1,0 +1,45 @@
+1.Which option would you choose if you required cross-regional load balancing for a web application?
+
+    TCP Proxy Load Balancing
+
+Ans. HTTP(S) Load Balancing
+
+    Internal HTTP(S) Load Balancing
+
+    SSL Proxy Load Balancing
+2.What term describes where the Google network is connected to the rest of the internet?
+
+   Zone
+
+   IP address
+
+   Region
+
+Ans.Point of presence (PoP)
+3.What is used to forward traffic from one instance to another within the same network, across subnetworks, or even between Google Cloud zones, and doesn’t require an external IP address?
+
+    Load balancer
+
+    Firewall
+
+Ans.Routing table
+
+    Subnet
+4.Which connectivity solution provides a direct connection to Google?
+
+    Partner Interconnect
+
+    Direct Peering
+
+    Carrier Peering
+
+Ans.Dedicated Interconnect
+5.Select the true statement.
+
+Ans.VPCs are global and subnets are regional.
+
+    VPCs are regional. Subnets are not used in Google Cloud.
+
+    Both VPCs and subnets are global.
+
+    VPCs are regional and subnets are zonal.
