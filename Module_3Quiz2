@@ -1,0 +1,36 @@
+1.Which tool ingests metrics, events, and metadata to generate insights through dashboards, Metrics Explorer charts, and automated alerts?
+
+    Cloud Profiler
+
+Ans.Cloud Monitoring
+
+    Cloud Trace
+
+    Cloud Source Repositories
+2.In Cloud Logging, what is the default log retention period for data access logs?
+
+    400 days
+
+Ans.30 days
+
+    365 days
+
+    3650 days
+3.Which one of the following provides access to logs created by developers who deploy code to Google Cloud?
+
+    Network logs
+
+    Cloud Audit Logs
+
+    Agent logs
+
+Ans.Service Logs
+4.Where can you store and version-control your Terraform templates?
+
+   Cloud Profiler
+
+   Cloud Monitoring
+
+   Cloud Trace
+
+Ans.Cloud Source Repositories
