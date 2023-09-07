@@ -1,0 +1,38 @@
+1.Which is a fundamental attribute of cloud computing?
+
+  Computing resources cannot be scaled up or down.
+
+  Customers only get computing resources when the cloud provider has availability.
+
+  Customers pay for allocated computing resources whether they make use of them or not.
+
+Ans.  Customers get access to computing resources over the internet, from anywhere.
+
+2.Where are Google Cloud resources deployed?
+
+   Location
+
+   Region
+
+   Multi-region
+
+Ans.  Zone
+3.What is the fully automated, elastic third-wave cloud that consists of a combination of automated services and scalable data?
+
+     Virtualized data center
+
+     On-premises
+
+Ans. Container-based architecture
+
+     Colocation
+4.Which service provides raw compute, storage, and network capabilities, organized virtually into resources that are similar to physical data centers?
+
+    SaaS
+
+Ans.IaaS
+
+    FaaS
+
+    PaaS
+
